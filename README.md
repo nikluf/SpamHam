@@ -30,7 +30,9 @@ python3 tester.py
 ## Input/Output Examples
 
 Input: You've won a prize! Click here now!
+
 Output: Spam
 
 Input: Hey, are we still meeting later?
+
 Output: Not Spam
