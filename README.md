@@ -27,8 +27,8 @@ python3 tester.py
 
 
 
-Input: "You've won a prize! Click here now!"
-Output: "Spam"
+Input: You've won a prize! Click here now!
+Output: Spam
 
-Input: "Hey, are we still meeting later?"
-Output: "Not Spam"
+Input: Hey, are we still meeting later?
+Output: Not Spam
