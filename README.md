@@ -29,8 +29,8 @@ import nltk
 nltk.download('stopwords')
 
 
-Enter the text you recieved: You've won a prize! Click here now!
+Input: "You've won a prize! Click here now!"
 Output: Spam
 
-Enter the text you recieved: Hey, are we still meeting later?"
+Input: "Hey, are we still meeting later?
 Output: Not Spam
