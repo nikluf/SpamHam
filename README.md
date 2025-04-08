@@ -23,9 +23,11 @@
 pip install -r requirements.txt
 python3 pckbuilder.py
 python3 tester.py
+```
 
 
 
+## Input/Output Examples
 
 Input: You've won a prize! Click here now!
 Output: Spam
