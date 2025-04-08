@@ -30,7 +30,7 @@ nltk.download('stopwords')
 
 
 Input: "You've won a prize! Click here now!"
-Output: Spam
+Output: "Spam"
 
 Input: "Hey, are we still meeting later?
-Output: Not Spam
+Output: "Not Spam"
