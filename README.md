@@ -21,16 +21,14 @@
 
 ```bash
 pip install -r requirements.txt
-python pckbuilder.py
-python tester.py
+python3 pckbuilder.py
+python3 tester.py
 
-(Do it for the first time)
-import nltk
-nltk.download('stopwords')
+
 
 
 Input: "You've won a prize! Click here now!"
 Output: "Spam"
 
-Input: "Hey, are we still meeting later?
+Input: "Hey, are we still meeting later?"
 Output: "Not Spam"
